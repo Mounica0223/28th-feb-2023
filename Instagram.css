@@ -1,0 +1,87 @@
+*{
+	font-family: 'Tilt Neon';
+}
+
+.Instabt{
+	background-color: #3eb6f7;
+	color: white;
+	border-width: 0px;
+	border-radius: 8px;
+	padding: 7px;
+	width: 270px;
+	font-weight: 600;
+	margin-bottom: 20px;
+	margin-top: 0px;
+}
+.Instabt:hover{
+	cursor: pointer;
+}
+
+
+img{
+	padding-top: 30px;
+	margin-bottom: 5px;
+}
+
+.first{
+	border: solid #9ea8a1;
+	background-color: white;
+	border-width: 1px;
+	text-align: center;
+	width: 320px; 
+	margin: auto;
+	margin-top: 5%;
+}
+
+body{
+	background-color: #eee;
+	height: 100vh;
+}
+
+.forgot{
+	text-decoration: none;
+	color: #113f54;
+	padding-right: 135px;
+	font-weight: 500;
+	margin-bottom: 5px;
+}
+
+.sign{
+	color: #3eb6f7;
+	text-decoration: none;
+}
+
+.second{
+	border: solid #9ea8a1;
+	background-color: white;
+	border-width: 1px;
+	text-align: center;
+	width: 320px;
+	margin: auto;
+	margin-top: 10px;
+	margin-bottom: 5%;
+}
+
+.input1{
+	margin-bottom: 3%;
+	width: 80%;
+	height: 30px;
+	padding-left: 10px;
+	border-width: 1px;
+	border-color: #dbdbdb;
+	background-color: #eee;
+}
+
+.input2{
+	margin-bottom: 5%;
+	width: 80%;
+	height: 30px;
+	padding-left: 10px;
+	border-color: #dbdbdb;
+	border-width: 1px;
+	background-color: #eee;
+}
+
+	
+
+

@@ -1,0 +1,64 @@
+*{
+	font-family: 'Roboto';
+	color: white;
+
+}
+body{
+	background-color: black;
+	height: 100vh;
+
+}
+input{
+	background-color: #eee;
+	color: grey;
+	font-size: 20px;
+	border: none;
+	height: 40px;
+	margin-left: 20px;
+	width: 550px;
+}
+.first{
+	background-color: #075de8;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-size: 20px;
+	border: none;
+	height: 40px;
+	margin-left: 20px;
+	width: 550px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+.container{
+	background-color: white;
+	margin: auto;
+	width: 600px;
+	height: 210px;
+	border-radius: 10px;
+	margin-bottom: 10px;
+}
+h2{
+	color: grey;
+	font-size: 30px;
+	padding-top: 30px;
+}
+.entire{
+	background-image: url('https://img.freepik.com/premium-vector/abstract-gradient-purple-pink-curve-wave-stripes-with-glitters-gradient-dark-purple_35756-117.jpg?size=626&ext=jpg&ga=GA1.2.1444119140.1671213698&semt=ais');
+	background-size: cover;
+	margin: auto;
+	height: 550px;
+	width: 700px;
+	margin-top: 50px;
+	margin-bottom: 40px;
+}
+h1{
+	padding-top: 30px;
+	font-size: 40px;
+	font-family: 'Golos Text';
+}
+p{
+	font-size: 23px;
+}
+.p1{
+	margin-top: 0px;
+}

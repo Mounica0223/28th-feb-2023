@@ -1,0 +1,16 @@
+.first{
+	background-color: orange;
+	
+}
+.second{
+	background-color: white;
+	text-align: center;
+}
+.third{
+	background-color: green;
+	
+}
+.entire{
+	height: 150px;
+	width: 100%;
+}

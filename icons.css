@@ -1,0 +1,30 @@
+.fa-brands{
+	color: darkblue;
+	font-size: 20px;
+}
+.fa-brands:hover{
+	color: red;
+	font-size: 20px;
+	cursor: pointer;
+}
+.fa-solid{
+	color: darkblue;
+	font-size: 20px;
+}
+.fa-solid:hover{
+	color: red;
+	font-size: 20px;
+	cursor: pointer;
+}
+.fa-sharp{
+	color: darkblue;
+	font-size: 20px;
+}
+.fa-sharp:hover{
+	color: red;
+	font-size: 20px;
+	cursor: pointer;
+}
+span{
+	font-weight: bold;
+}

@@ -1,0 +1,17 @@
+.one{
+	background-color: green;
+	margin-right: 75%;
+	padding-left: 45px;
+	padding-bottom: 5px;
+}
+.entire{
+	color: white;
+}
+.first-button{
+	color: white;
+	background-color: green;
+	border-width: 0px;
+	border-radius: 5px;
+	padding: 5px;
+	width: 100px;
+}

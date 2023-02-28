@@ -1,0 +1,81 @@
+*{
+	margin: 0px;
+	cursor: pointer;
+}
+.first{
+	font-weight: 900;
+	font-size: 25px;
+	padding-left: 10px;
+	padding-top: 20px;
+	
+}
+.first:hover{
+	color: darkgreen;
+	font-style: oblique;
+}
+
+.pic{
+	height: 30%; 
+	width: 30%;
+
+}
+.second{
+	font-size: 20px;
+}
+.second:hover{
+	font-weight: bold;
+	color: darkblue;
+	font-style: oblique;
+}	
+
+body{
+	background-image: url('https://img.freepik.com/premium-photo/3d-rendering-shirt-web_172660-488.jpg?size=626&ext=jpg&ga=GA1.2.1444119140.1671213698&semt=sph');
+	background-size: cover;
+	height: 100vh;
+	
+
+}
+.fullpic{
+	background-color: whitesmoke;
+	width: 500px;
+	margin-left: 400px;
+	height: 630px;
+	margin-top: 20px;
+	margin-bottom: 0px;
+
+}
+span {
+	font-weight: 1000;
+}
+a {
+	color: #2ea3c7;
+	text-decoration: none;
+	font-size: 25px;
+	margin-left: 200px;
+	border: solid black;
+	padding-left: 10px;	
+	padding-right: 10px;
+	background-color: black;
+	border-radius: 10px;
+	border-color: #2ea3c7;
+
+}
+a:hover {
+	color: darkgreen;
+	text-decoration: none;
+	background-color: lightpink;
+	border-color: darkgreen;		
+}
+.combine{
+	padding-left: 15px;
+
+}	
+img:hover{
+	border: solid;
+	border-radius: 10px;
+}
+.fa-brands:hover{
+	color: darkblue;
+	border: solid;
+	border-color: red;
+}

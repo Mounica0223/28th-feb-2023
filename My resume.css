@@ -1,0 +1,11 @@
+.highlighted-details{
+	color: darkblue;
+	cursor: pointer;
+}
+.highlighted-details:hover{
+	color: red;
+}
+.one{
+	color: green;
+	cursor: pointer;
+}

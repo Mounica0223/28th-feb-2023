@@ -1,0 +1,19 @@
+h1 {
+	color: blue;
+}
+.second{
+	color: green;
+	font-size: 50px;
+}
+.three{
+	color: red;
+	font-size: 60px;
+}
+.four{
+	background-color: black;
+	font-size: 70px;
+}
+.new{
+	color: green;
+	text-align: center;
+}

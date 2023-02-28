@@ -1,0 +1,35 @@
+*{
+	margin: 0%;
+	
+}
+body{
+	background-color: #eee;
+}
+.first{
+	background-color: white;
+	height: 35px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	
+}	
+a{
+	text-decoration: none;
+	color: black;
+	margin: 17px;
+	font-weight: bold;
+}	
+
+
+.second{
+	font-family: 'Open Sans';
+	font-size: 12px;
+}
+.third{
+	font-size: 25px;
+	font-family: 'playball';
+	margin-left: 30px;
+}
+.fa-solid{
+	font-size: 10px;
+
+}

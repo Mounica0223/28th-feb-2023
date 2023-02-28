@@ -1,0 +1,78 @@
+*{
+	margin: 0%;
+}
+.one{
+	border: dashed darkcyan 10px;
+	cursor: pointer;
+	text-align: center;
+	color: white;
+	background-color: black;
+}
+.two{
+	border: solid;
+	border-width: 5px;
+	border-radius: 10px;
+	cursor: crosshair;
+	color: black;
+	border-color: red;
+	background-color: yellow;
+	text-align: center;
+	font-weight: 800;
+}
+.imgres{
+	height: 200px;
+	width: 270px;
+	border: solid;
+	padding: 10px;
+	margin-left: 500px;
+	cursor: move;
+}
+.bgimg{
+	background-image: url('https://img.freepik.com/free-vector/realistic-travel-background-with-elements_52683-77784.jpg?size=626&ext=jpg&ga=GA1.2.1444119140.1671213698&semt=sph');
+	background-size: cover;
+	height: 100vh;
+}
+.btn1{
+	background-image: url('https://img.freepik.com/premium-photo/waves-water-river-sea-meet-each-other-during-high-tide-low-tide-whirlpools-maelstrom-saltstraumen-nordland-norway_564276-1836.jpg?size=626&ext=jpg&ga=GA1.2.1444119140.1671213698&semt=ais');
+	background-size: cover;
+	color: white;
+	height: 50px;
+	font-weight: 900;
+	padding: 10px;
+	cursor: crosshair;
+	border-radius: 10px;
+	font-size: 20px;
+}
+.btn2{
+	background-color: green;
+	color: white;
+	border-width: 3px;
+	height: 40px;
+	width: 150px;
+	border-radius: 50px;
+	
+	font-style: normal;
+	border-color: grey;
+
+	
+}
+.btn2:hover {
+	background-color: blue;
+	color: white;
+	font-weight: 900;
+	font-decoration: underline;
+	border-width: 2px;
+	border-color: black;
+	font-style: italic;
+	text-decoration: underline;
+	cursor: move;
+
+}
+.entire{
+	text-align: center;
+	background-color: yellow;
+	margin-left: 500px;
+	margin-right: 500px;
+	padding-top: 5px;
+	padding-bottom: 10px;
+}
