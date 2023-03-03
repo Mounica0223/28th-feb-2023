@@ -4,17 +4,27 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title></title>
+	
 	<link rel="stylesheet" href="Inputs 2.0.css">
 </head>
 <body>
 	<div class="one">
 		<form>
-		First name<br><input type="text"/><br><br>
-		Last name<br><input type="text"/><br><br>
-		Email<br><input type="email"/><br><br>
-		Password<br><input type="password"/><br><br>
+		First name<br><input type="text"required/><br><br>
+		Last name<br><input type="text"required/><br><br>
+		Email<br><input type="email"required/><br><br>
+		Password<br><input type="password"required/><br><br>
 		<input type="submit" value="Register"/>
 		</form>
+
 	</div>
+		<form>
+			<fieldset class="set">
+			 <legend>Select any one choice</legend>
+			 <label> Yes<input type="radio" required name="choose"/></label>
+			 <label> No<input type="radio" required name="choose"/></label>
+			 </fieldset>
+			<button type="submit">Submit</button>
+		</form>
 </body>
 </html>
